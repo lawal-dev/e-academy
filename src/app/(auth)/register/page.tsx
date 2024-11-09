@@ -19,7 +19,7 @@ export default function Register() {
                 </h2>
             </div>
 
-            <div className='bg-white text-black p-[56px] rounded-xl'>
+            <div className='bg-white text-black p-[32px] sm:p-[56px] rounded-xl'>
                 <div className='text-center'>
                     <h3 className='text-[#101928] text-[28px]'> Create an account </h3>
                     <p className='text-[16px] text-primary2'> Enter your credentials to create your account</p>
