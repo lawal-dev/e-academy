@@ -17,7 +17,7 @@ export default function Login() {
     return (
         <div className='m-auto w-full sm:w-[50%] md:w-[35%] mt-10 mb-10'>
             <div className='mb-5'>
-                <h2 className='text-[24px] text-primary1 text-center'>
+                <h2 className='text-[24px] text-red-800 text-center'>
                     E-Academy
                 </h2>
             </div>
